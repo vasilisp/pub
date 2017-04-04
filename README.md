@@ -1,5 +1,11 @@
 # My publications
 
+ - Gabriel Radanne, Vasilis Papavasileiou, Jerome Vouillon, and
+   Vincent Balat.
+   *Eliom: tierless Web programming from the ground up*.
+   IFL, 2016.
+   \[[PDF](ifl-2016.pdf)\]
+
  - Vasilis Papavasileiou. *Mathematical Programming Modulo Theories*.
    Ph.D. dissertation, Northeastern University, 2015.
    \[[PDF](dissertation.pdf)\]
